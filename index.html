@@ -353,7 +353,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "368f6354-cfc1-4cc4-9f49-f59fbe8117c4";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><nav class="navbar" dir="rtl">
+<script>window.ZAPPY_WEBSITE_ID = "368f6354-cfc1-4cc4-9f49-f59fbe8117c4";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
@@ -895,10 +895,10 @@
       <p><span class="index-hero-label" style="color: rgb(46, 37, 40) !important;">H.B JEWELRY</span>
 
       
-      </p><!-- Main Headline --><h1 class="index-hero-h1" style=""></h1><h2 style="">עיצובים מיוחדים שיגרמו לך לבלוט</h2>
+      </p><!-- Main Headline --><h1 class="index-hero-h1" ></h1><h2 >עיצובים מיוחדים שיגרמו לך לבלוט</h2>
 
       <!-- Supporting Subtitle -->
-      <h3 class="index-hero-subtitle" style="" data-element-id="move-1778566253424-iqtmxy9m">כסף 925 · זהב · רוז גולד · חרוזים<br><br></h3>
+      <h3 class="index-hero-subtitle"  data-element-id="move-1778566253424-iqtmxy9m">כסף 925 · זהב · רוז גולד · חרוזים<br><br></h3>
 
       <!-- Gold Divider Line with Heart -->
       <div class="index-hero-divider-line" aria-hidden="true">
@@ -950,7 +950,7 @@
     </section>
   
 
-<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features" dir="rtl">
+<section data-band-index="1" class="index-features-section" data-layout-spec="בית-features" dir="rtl" id="index-features-section">
   <div class="index-features-container">
 
     <!-- Section Header -->
@@ -967,40 +967,51 @@
     </div>
 
     <!-- 3-Card Grid -->
-    <div class="index-features-grid">
+    <div class="index-features-grid" style="display: grid; --zappy-grid-cols: repeat(3, minmax(0, 1fr)); grid-template-columns: repeat(3, minmax(0, 1fr));" data-zappy-explicit-columns="true">
 
       <!-- Card 1: Women -->
-      <article class="index-features-card">
+      <article class="index-features-card" style="background-color: rgb(255, 250, 247) !important; grid-column-start: auto !important; grid-column-end: auto !important; grid-row-start: auto !important; grid-row-end: auto !important;" data-grid-item-index="0">
         <div class="index-features-card-img-wrap">
-          <img data-placeholder="index-features-image-1" data-context="Elegant womens jewelry flatlay on soft ivory and pale pink surface — delicate silver 925 necklaces, rose gold earrings and beaded bracelets arranged artfully, natural diffused light, luxury boutique photography style" width="600" height="400" src="/assets/site-index-features-image-1.webp" alt="תכשיטים לנשים — שרשראות, עגילים וצמידים מכסף ורוז גולד">
+          <img data-placeholder="image-placeholder" data-context="Elegant womens jewelry flatlay on soft ivory and pale pink surface — delicate silver 925 necklaces, rose gold earrings and beaded bracelets arranged artfully, natural diffused light, luxury boutique photography style" width="600" height="400" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Image placeholder" data-element-type="image" data-element-id="new-grid-img-1778566397380-0-f4klu8ur3" style="cursor: pointer;" id="new-grid-img-1778566397380-0-f4klu8ur3" data-ai-slot="grid-item-image" data-zappy-base64-stripped="true">
+          <div class="index-features-card-badge" >טקסט כאן</div>
+        </div>
+        <div class="index-features-card-body">
+          <div class="index-features-card-corner" aria-hidden="true"></div>
+          <h3 class="index-features-card-title" >כותרת משנה</h3>
+          <p class="index-features-card-desc" >טקסט כאן</p>
+          <p class="zappy-editable"><a href="#women" class="index-features-card-link" style="color: rgb(46, 37, 40) !important;">טקסט קישור</a>
+        </p></div>
+      </article><article class="index-features-card" data-grid-item-index="1">
+        <div class="index-features-card-img-wrap">
+          <img data-placeholder="index-features-image-1" data-context="Elegant womens jewelry flatlay on soft ivory and pale pink surface — delicate silver 925 necklaces, rose gold earrings and beaded bracelets arranged artfully, natural diffused light, luxury boutique photography style" width="600" height="400" src="/assets/site-index-features-image-1.webp" alt="תכשיטים לנשים — שרשראות, עגילים וצמידים מכסף ורוז גולד" data-element-type="image" data-element-id="img-1778566301760-d714pfhzi" >
           <div class="index-features-card-badge">לנשים</div>
         </div>
         <div class="index-features-card-body">
           <div class="index-features-card-corner" aria-hidden="true"></div>
           <h3 class="index-features-card-title">תכשיטים לנשים</h3>
           <p class="index-features-card-desc">עגילים, שרשראות, צמידים וטבעות — עיצובים עדינים ומיוחדים מכסף 925, זהב ורוז גולד שיגרמו לך לבלוט בכל הזדמנות.</p>
-          <a href="#women" class="index-features-card-link">לקולקציית נשים <span aria-hidden="true">←</span></a>
-        </div>
+          <p class="zappy-editable"><a href="#women" class="index-features-card-link" style="color: rgb(46, 37, 40) !important;">לקולקציית נשים <span aria-hidden="true" style="color: rgb(46, 37, 40) !important;">←</span></a>
+        </p></div>
       </article>
 
       <!-- Card 2: Men -->
-      <article class="index-features-card">
+      <article class="index-features-card" data-grid-item-index="2">
         <div class="index-features-card-img-wrap">
-          <img data-placeholder="index-features-image-2" data-context="Masculine mens jewelry flatlay on pale ivory or light stone surface — bold silver 925 chain necklaces, thick bracelets, signet rings arranged with minimalist style, natural light, premium boutique photography" width="600" height="400" src="/assets/site-index-features-image-2.webp" alt="תכשיטים לגברים — שרשראות וצמידים מכסף">
+          <img data-placeholder="index-features-image-2" data-context="Masculine mens jewelry flatlay on pale ivory or light stone surface — bold silver 925 chain necklaces, thick bracelets, signet rings arranged with minimalist style, natural light, premium boutique photography" width="600" height="400" src="/assets/site-index-features-image-2.webp" alt="תכשיטים לגברים — שרשראות וצמידים מכסף" data-element-type="image" data-element-id="img-1778566301760-aolc1hr7t" >
           <div class="index-features-card-badge">לגברים</div>
         </div>
         <div class="index-features-card-body">
           <div class="index-features-card-corner" aria-hidden="true"></div>
           <h3 class="index-features-card-title">תכשיטים לגברים</h3>
           <p class="index-features-card-desc">שרשראות, צמידים וטבעות בעיצוב גברי ועוצמתי — כסף 925 וזהב באיכות פרימיום. תכשיטים לגברים ישראל שמשדרים סגנון וביטחון.</p>
-          <a href="#men" class="index-features-card-link">לקולקציית גברים <span aria-hidden="true">←</span></a>
-        </div>
+          <p class="zappy-editable"><a href="#men" class="index-features-card-link" style="color: rgb(46, 37, 40) !important;">לקולקציית גברים <span aria-hidden="true" style="color: rgb(46, 37, 40) !important;">←</span></a>
+        </p></div>
       </article>
 
       <!-- Card 3: Gift & Promo -->
-      <article class="index-features-card index-features-card--promo">
+      <article class="index-features-card index-features-card--promo" data-grid-item-index="3">
         <div class="index-features-card-img-wrap">
-          <img data-placeholder="index-features-image-3" data-context="Romantic gift pairing of womens and mens jewelry together on soft blush pink surface — a delicate womens necklace beside a mens silver bracelet, tied with a gold ribbon or wrapped in elegant packaging, warm natural light, luxury gift photography" width="600" height="400" src="/assets/site-index-features-image-3.webp" alt="מבצע מתנה — קנו תכשיט לאישה וקבלו תכשיט לגבר מתנה">
+          <img data-placeholder="index-features-image-3" data-context="Romantic gift pairing of womens and mens jewelry together on soft blush pink surface — a delicate womens necklace beside a mens silver bracelet, tied with a gold ribbon or wrapped in elegant packaging, warm natural light, luxury gift photography" width="600" height="400" src="/assets/site-index-features-image-3.webp" alt="מבצע מתנה — קנו תכשיט לאישה וקבלו תכשיט לגבר מתנה" data-element-type="image" data-element-id="img-1778566301760-mk3suj6y0" >
           <div class="index-features-card-badge index-features-card-badge--gold">מבצע מיוחד</div>
         </div>
         <div class="index-features-card-body">
@@ -1011,16 +1022,16 @@
           </div>
           <h3 class="index-features-card-title">מתנות ומבצעים</h3>
           <p class="index-features-card-desc">קונים תכשיט לאישה — מקבלים תכשיט לגבר מתנה! הצעה מיוחדת לזוגות ולמי שרוצה לפנק את האהובים. תכשיטים לגברים ונשים במבצע שלא כדאי לפספס.</p>
-          <a href="#promo" class="index-features-card-link index-features-card-link--gold">לפרטי המבצע <span aria-hidden="true">←</span></a>
-        </div>
+          <p class="zappy-editable"><a href="#promo" class="index-features-card-link index-features-card-link--gold" style="color: rgb(46, 37, 40) !important;">לפרטי המבצע <span aria-hidden="true" style="color: rgb(46, 37, 40) !important;">←</span></a>
+        </p></div>
       </article>
 
     </div>
 
     <!-- Jewelry Type Pills Row -->
     <div class="index-features-types-row">
-      <span class="index-features-type-label">סוגי תכשיטים:</span>
-      <div class="index-features-pills">
+      <p class="zappy-editable"><span class="index-features-type-label">סוגי תכשיטים:</span>
+      </p><div class="index-features-pills">
         <span class="index-features-pill">שרשראות</span>
         <span class="index-features-pill">עגילים</span>
         <span class="index-features-pill">צמידים</span>

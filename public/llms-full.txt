@@ -134,15 +134,16 @@ Description: תכשיטים בעבודת יד מכסף 925, זהב וזהב ור
 
 
 
+
 H.B JEWELRY
 
+#
+
+## עיצובים מיוחדים שיגרמו לך לבלוט
 
 
-# תכשיטים בעיצוב ייחודי,מיוצרים ביד אמן
 
-
-
-### כסף 925 · זהב · רוז גולד · חרוזיםעיצובים מיוחדים שיגרמו לך לבלוט
+### כסף 925 · זהב · רוז גולד · חרוזים
 
 
 
@@ -216,6 +217,22 @@ H.B JEWELRY
 
 
 
+טקסט כאן
+
+
+
+
+### כותרת משנה
+
+
+טקסט כאן
+
+
+טקסט קישור
+
+
+
+
 לנשים
 
 
@@ -226,7 +243,8 @@ H.B JEWELRY
 
 עגילים, שרשראות, צמידים וטבעות — עיצובים עדינים ומיוחדים מכסף 925, זהב ורוז גולד שיגרמו לך לבלוט בכל הזדמנות.
 
-לקולקציית נשים  ←
+
+לקולקציית נשים ←
 
 
 
@@ -244,7 +262,8 @@ H.B JEWELRY
 
 שרשראות, צמידים וטבעות בעיצוב גברי ועוצמתי — כסף 925 וזהב באיכות פרימיום. תכשיטים לגברים ישראל שמשדרים סגנון וביטחון.
 
-לקולקציית גברים  ←
+
+לקולקציית גברים ←
 
 
 
@@ -266,7 +285,9 @@ H.B JEWELRY
 
 קונים תכשיט לאישה — מקבלים תכשיט לגבר מתנה! הצעה מיוחדת לזוגות ולמי שרוצה לפנק את האהובים. תכשיטים לגברים ונשים במבצע שלא כדאי לפספס.
 
-לפרטי המבצע  ←
+
+לפרטי המבצע ←
+
 
 
 
@@ -5813,6 +5834,125 @@ H.B JEWELRY מספקת תכשיטים ואקססוריז דרך האתר. השי
 ---
 
 ## Product Catalog
+
+### עגילים משובצים אבני זרקון ZSI594-3
+URL: https://example.com/product/agylym-mshvbtsym-abny-zrkvn-zsi594-3-xjere4
+Price: 150.00 ILS (sale, was 200.00 ILS)
+Availability: In stock
+SKU: ZSI594-3
+
+---
+
+### שרשרת יהלום ZSI870-3
+URL: https://example.com/product/shrshrt-yhlvm-zsi870-3-4ddyhe
+Price: 200.00 ILS (sale, was 250.00 ILS)
+Availability: In stock
+SKU: ZSI870-3
+
+---
+
+### טבעת יהלום ZSI981-1
+URL: https://example.com/product/tbat-yhlvm-zsi981-1-2ft97a
+Price: 120.00 ILS (sale, was 150.00 ILS)
+Availability: In stock
+SKU: ZSI981-1
+
+---
+
+### טבעת יהלום ZSI981-3
+URL: https://example.com/product/tbat-yhlvm-zsi981-3-tbdehn
+Price: 120.00 ILS (sale, was 150.00 ILS)
+Availability: In stock
+SKU: ZSI981-3
+
+---
+
+### שרשרת קשיחה אבן טיפה ZSI893-2
+URL: https://example.com/product/shrshrt-kshychh-abn-typh-zsi893-2-2pv1zt
+Price: 300.00 ILS (sale, was 400.00 ILS)
+Availability: In stock
+SKU: ZSI893-2
+
+---
+
+### שרשרת קשיחה ZSI879-3
+URL: https://example.com/product/shrshrt-kshychh-zsi879-3-krmh5r
+Price: 300.00 ILS (sale, was 400.00 ILS)
+Availability: In stock
+SKU: ZSI879-3
+
+---
+
+### שרשרת קשיחה ZSI872-2
+URL: https://example.com/product/shrshrt-kshychh-zsi872-2-6l4rfq
+Price: 300.00 ILS (sale, was 400.00 ILS)
+Availability: In stock
+SKU: ZSI872-2
+
+---
+
+### ZSI893-1 שרשרת קשיחה אבן טיפה
+URL: https://example.com/product/zsi893-1-shrshrt-kshychh-abn-typh-m9n82s
+Price: 300.00 ILS (sale, was 400.00 ILS)
+Availability: In stock
+SKU: ZSI893-1
+
+---
+
+### שרשרת עשויה פליז ZSI497-3
+URL: https://example.com/product/shrshrt-ashvyh-plyz-zsi497-3-mta9mk
+Price: 180.00 ILS (sale, was 200.00 ILS)
+Availability: Out of stock
+
+---
+
+### צמיד גאדי LESI3323-2
+URL: https://example.com/product/tsmyd-gady-lesi3323-2-cz1sz8
+Price: 180.00 ILS (sale, was 200.00 ILS)
+Availability: In stock
+SKU:  LESI3323-2
+
+---
+
+### שרשרת עניבה נופלת LOZ1092-1
+URL: https://example.com/product/shrshrt-anybh-nvplt-loz1092-1-5dipi8
+Price: 250.00 ILS (sale, was 300.00 ILS)
+Availability: In stock
+SKU:  LOZ1092-1
+
+---
+
+### שרשרת משובצת באבני זרקון ZSI497-1
+URL: https://example.com/product/shrshrt-mshvbtst-babny-zrkvn-zsi497-1-dbpz8p
+Price: 200.00 ILS (sale, was 220.00 ILS)
+Availability: In stock
+SKU: ZSI497-1
+
+---
+
+### שרשרת משובצת זרקונים ZSI537-1
+URL: https://example.com/product/shrshrt-mshvbtst-zrkvnym-zsi537-1-t6ie1x
+Price: 200.00 ILS (sale, was 250.00 ILS)
+Availability: In stock
+SKU: ZSI537-1
+
+---
+
+### שרשרת עשויה פליז ZSI568-3
+URL: https://example.com/product/shrshrt-ashvyh-plyz-zsi568-3-h4yjg2
+Price: 180.00 ILS (sale, was 200.00 ILS)
+Availability: In stock
+SKU: ZSI568-3
+
+---
+
+### שרשרת עשויה פליז  ZSI737-2
+URL: https://example.com/product/shrshrt-ashvyh-plyz-zsi737-2-wn0xsh
+Price: 180.00 ILS (sale, was 200.00 ILS)
+Availability: In stock
+SKU: ZSI737-2
+
+---
 
 ### שרשרת משובצת באבני זרקון  ZSI868-1
 URL: https://example.com/product/shrshrt-mshvbtst-babny-zrkvn-zsi868-1-2di2op

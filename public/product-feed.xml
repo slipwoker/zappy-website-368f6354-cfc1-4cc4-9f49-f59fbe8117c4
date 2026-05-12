@@ -4,7 +4,203 @@
     <title>H.B JEWELRY</title>
     <link>https://example.com</link>
     <description>Product feed for H.B JEWELRY</description>
-    <lastBuildDate>Tue, 12 May 2026 05:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 06:13:56 GMT</lastBuildDate>
+    <item>
+      <g:id>ceac79c6-cd7c-4668-a369-e95a779efd73</g:id>
+      <g:title>עגילים משובצים אבני זרקון ZSI594-3</g:title>
+      <g:description>עגילים נופלים עשויים פליז ומשובצים זהב בעובי 2 מיקרון משובצים אבני זרקון העגילים מגיעים כזוג.</g:description>
+      <g:link>https://example.com/product/agylym-mshvbtsym-abny-zrkvn-zsi594-3-xjere4</g:link>
+      <g:image_link>https://example.com/assets/product-1778564699803-xai9z.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>150.00 ILS</g:price>
+      <g:sale_price>150.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI594-3</g:mpn>
+    </item>
+    <item>
+      <g:id>8600a665-5dfa-41af-ae27-760b457c2b33</g:id>
+      <g:title>שרשרת יהלום ZSI870-3</g:title>
+      <g:description>שרשרת יהלום ZSI870-3</g:description>
+      <g:link>https://example.com/product/shrshrt-yhlvm-zsi870-3-4ddyhe</g:link>
+      <g:image_link>https://example.com/assets/product-1778564579830-76nva.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI870-3</g:mpn>
+    </item>
+    <item>
+      <g:id>407c9fce-f3b4-4290-a2f8-8e343d8b4d8c</g:id>
+      <g:title>טבעת יהלום ZSI981-1</g:title>
+      <g:description>עשויה כסף אמיתי 925 משובצת באבני זירקון מידת הטבעת 7</g:description>
+      <g:link>https://example.com/product/tbat-yhlvm-zsi981-1-2ft97a</g:link>
+      <g:image_link>https://example.com/assets/product-1778564490538-c8gu4n.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI981-1</g:mpn>
+    </item>
+    <item>
+      <g:id>6cd4c0be-2d76-47fc-b96b-a514510ccc67</g:id>
+      <g:title>טבעת יהלום ZSI981-3</g:title>
+      <g:description>עשויה פליז בציפוי זהב 14K עובי הציפוי 2 מיקרון משובצת באבני זרקון מידת הטבעת 7</g:description>
+      <g:link>https://example.com/product/tbat-yhlvm-zsi981-3-tbdehn</g:link>
+      <g:image_link>https://example.com/assets/product-1778564359096-js3d1.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:sale_price>120.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI981-3</g:mpn>
+    </item>
+    <item>
+      <g:id>c3cb1810-d670-4f9a-a1b1-7fbb743956e5</g:id>
+      <g:title>שרשרת קשיחה אבן טיפה ZSI893-2</g:title>
+      <g:description>שרשרת קשיחה אבן טיפה ZSI893-2</g:description>
+      <g:link>https://example.com/product/shrshrt-kshychh-abn-typh-zsi893-2-2pv1zt</g:link>
+      <g:image_link>https://example.com/assets/product-1778564074256-fc4xjb.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI893-2</g:mpn>
+    </item>
+    <item>
+      <g:id>c0c4e049-6c86-49a8-a5af-060912289d1a</g:id>
+      <g:title>שרשרת קשיחה ZSI879-3</g:title>
+      <g:description>שרשרת קשיחה ZSI879-3</g:description>
+      <g:link>https://example.com/product/shrshrt-kshychh-zsi879-3-krmh5r</g:link>
+      <g:image_link>https://example.com/assets/product-1778563778600-vdhrk9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI879-3</g:mpn>
+    </item>
+    <item>
+      <g:id>ff9ecb0b-582e-46e5-b54e-2e79874277ed</g:id>
+      <g:title>שרשרת קשיחה ZSI872-2</g:title>
+      <g:description>שרשרת קשיחה ZSI872-2</g:description>
+      <g:link>https://example.com/product/shrshrt-kshychh-zsi872-2-6l4rfq</g:link>
+      <g:image_link>https://example.com/assets/product-1778563682017-aq8shl.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI872-2</g:mpn>
+    </item>
+    <item>
+      <g:id>d33ed1e1-9b24-469b-b8d9-8021e690b2d5</g:id>
+      <g:title>ZSI893-1 שרשרת קשיחה אבן טיפה</g:title>
+      <g:description>ZSI893-1 שרשרת קשיחה אבן טיפה</g:description>
+      <g:link>https://example.com/product/zsi893-1-shrshrt-kshychh-abn-typh-m9n82s</g:link>
+      <g:image_link>https://example.com/assets/product-1778563516424-9nzsrs.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>300.00 ILS</g:price>
+      <g:sale_price>300.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI893-1</g:mpn>
+    </item>
+    <item>
+      <g:id>32d78c20-ea3e-491f-87e9-59f7c46fd974</g:id>
+      <g:title>שרשרת עשויה פליז ZSI497-3</g:title>
+      <g:description>עשויה פליז בציפוי זהב 14K בעובי 2 מיקרון משובצת באבני זרקון אורך השרשרת: 35+5 ס”מ</g:description>
+      <g:link>https://example.com/product/shrshrt-ashvyh-plyz-zsi497-3-mta9mk</g:link>
+      <g:image_link>https://example.com/assets/product-1778563383860-c6j0hn.webp</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>180.00 ILS</g:price>
+      <g:sale_price>180.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>4172a66b-1af3-4cac-b5de-32844c421c88</g:id>
+      <g:title>צמיד גאדי LESI3323-2</g:title>
+      <g:description>צמיד משולב טבעת עשוי כסף אמיתי 925 בציפוי זהב אדום (רוז גולד) משובץ אבני זרקון אורך 15+5 ס״מ</g:description>
+      <g:link>https://example.com/product/tsmyd-gady-lesi3323-2-cz1sz8</g:link>
+      <g:image_link>https://example.com/assets/product-1778563231732-ol8huk.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778563237639-mn2qbl.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>180.00 ILS</g:price>
+      <g:sale_price>180.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn> LESI3323-2</g:mpn>
+    </item>
+    <item>
+      <g:id>5956d270-bcf6-4b14-b599-d453f21ebbe9</g:id>
+      <g:title>שרשרת עניבה נופלת LOZ1092-1</g:title>
+      <g:description>שרשרת עניבה נופלת עשויה כסף אמיתי 925 משובצת אבני זרקון אורך השרשרת: 40+5 ס”מ</g:description>
+      <g:link>https://example.com/product/shrshrt-anybh-nvplt-loz1092-1-5dipi8</g:link>
+      <g:image_link>https://example.com/assets/product-1778563153405-pij49.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>250.00 ILS</g:price>
+      <g:sale_price>250.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn> LOZ1092-1</g:mpn>
+    </item>
+    <item>
+      <g:id>23443597-0712-4240-b151-d9855d316987</g:id>
+      <g:title>שרשרת משובצת באבני זרקון ZSI497-1</g:title>
+      <g:description>שרשרת משובצת באבני זרקון ZSI497-1</g:description>
+      <g:link>https://example.com/product/shrshrt-mshvbtst-babny-zrkvn-zsi497-1-dbpz8p</g:link>
+      <g:image_link>https://example.com/assets/product-1778562988899-94bvi.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI497-1</g:mpn>
+    </item>
+    <item>
+      <g:id>6a414b74-2b16-4ab3-943e-fbe69433da58</g:id>
+      <g:title>שרשרת משובצת זרקונים ZSI537-1</g:title>
+      <g:description>עשוייה כסף אמיתי 925 משובצת זרקונים אורך השרשרת: 40+5 ס”מ</g:description>
+      <g:link>https://example.com/product/shrshrt-mshvbtst-zrkvnym-zsi537-1-t6ie1x</g:link>
+      <g:image_link>https://example.com/assets/product-1778562875936-r8zi1q.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:sale_price>200.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI537-1</g:mpn>
+    </item>
+    <item>
+      <g:id>b66a2026-e838-4d56-b7e5-9ddff184a613</g:id>
+      <g:title>שרשרת עשויה פליז ZSI568-3</g:title>
+      <g:description>עשויה פליז בציפוי זהב 14K בעובי 2 מיקרון משובצת באבני זרקון אורך השרשרת: 40+5 ס”מ</g:description>
+      <g:link>https://example.com/product/shrshrt-ashvyh-plyz-zsi568-3-h4yjg2</g:link>
+      <g:image_link>https://example.com/assets/product-1778562737968-0ui7um.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>180.00 ILS</g:price>
+      <g:sale_price>180.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI568-3</g:mpn>
+    </item>
+    <item>
+      <g:id>7686c22d-22a7-4a50-800c-e15317fb9be0</g:id>
+      <g:title>שרשרת עשויה פליז  ZSI737-2</g:title>
+      <g:description>עשויה פליז בציפוי זהב אדום 14K בעובי 2 מיקרון משובצת באבני זרקון אורך השרשרת: 40+5 ס”מ</g:description>
+      <g:link>https://example.com/product/shrshrt-ashvyh-plyz-zsi737-2-wn0xsh</g:link>
+      <g:image_link>https://example.com/assets/product-1778562605499-6tc3k.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>180.00 ILS</g:price>
+      <g:sale_price>180.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>H.B JEWELRY</g:brand>
+      <g:mpn>ZSI737-2</g:mpn>
+    </item>
     <item>
       <g:id>e4eba21e-14cd-4778-9e81-30d36092c6c4</g:id>
       <g:title>שרשרת משובצת באבני זרקון  ZSI868-1</g:title>
