@@ -1,0 +1,101 @@
+# H.B JEWELRY — Generative Engine Optimization Map
+
+> H.B JEWELRY is a luxury jewelry brand offering handcrafted and specially designed pieces for both men and women. The brand specializes in silver 925, gold, rose gold, and beaded jewelry with unique designs meant to make the wearer stand out. The website should feel premium, elegant, and feminine with a pink color palette, featuring organized categories by gender and jewelry type. The brand runs a promotional offer: buy a women's jewelry piece and receive a men's piece as a gift.
+
+---
+
+## Pages
+
+### בית
+https://h-b-jewelry-368f6354.zappy5.app
+תכשיטים בעבודת יד מכסף 925, זהב וזהב ורד לנשים וגברים. עגילים ושרשראות בעיצוב ייחודי שיגרמו לך לבלוט. קני תכשיט לאישה וקבלי תכשיט לגבר במתנה!
+
+### אודות
+https://h-b-jewelry-368f6354.zappy5.app/about
+H.B JEWELRY נולדה מתשוקה לעיצוב תכשיטים ייחודיים לגברים ונשים. גלי את הפילוסופיה שלנו, את החומרים המובחרים ואת האומנות שמאחורי כל יצירה בעבודת יד.
+
+### מדריך מתנות וסטייל
+https://h-b-jewelry-368f6354.zappy5.app/gifting-style-guide
+מחפשת עגילים ושרשראות לנשים אונליין או תכשיט מושלם לגבר? המדריך שלנו יעזור לך לבחור מתנה שתרגש לכל אירוע. סטייל, טרנד ורגש במקום אחד.
+
+### צור קשר
+https://h-b-jewelry-368f6354.zappy5.app/contact
+יש שאלה על תכשיטים לגברים ונשים במבצע או רוצה הזמנה אישית? צוות H.B JEWELRY כאן בשבילך. צרי קשר עכשיו ונעזור לך למצוא את העגילים או השרשרת שחלמת עליהם.
+
+### Products
+https://h-b-jewelry-368f6354.zappy5.app/products
+המוצרים שלנו - H.B JEWELRY
+
+### Cart
+https://h-b-jewelry-368f6354.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://h-b-jewelry-368f6354.zappy5.app/checkout
+תשלום
+
+### Login
+https://h-b-jewelry-368f6354.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://h-b-jewelry-368f6354.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://h-b-jewelry-368f6354.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://h-b-jewelry-368f6354.zappy5.app/product/:slug
+פרטי המוצר - H.B JEWELRY
+
+### Category
+https://h-b-jewelry-368f6354.zappy5.app/category/:slug
+מוצרים - H.B JEWELRY
+
+## Legal & Policy
+
+### Privacy Policy
+https://h-b-jewelry-368f6354.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://h-b-jewelry-368f6354.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://h-b-jewelry-368f6354.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About H.B JEWELRY
+H.B JEWELRY is a luxury jewelry brand offering handcrafted and specially designed pieces for both men and women. The brand specializes in silver 925, gold, rose gold, and beaded jewelry with unique designs meant to make the wearer stand out. The website should feel premium, elegant, and feminine with a pink color palette, featuring organized categories by gender and jewelry type. The brand runs a promotional offer: buy a women's jewelry piece and receive a men's piece as a gift.
+
+## Target Audience
+- גברים ונשים - כל הגילאים
+- גברים ונשים בכל הגילאים
+- מילניאלס מודעים לאופנה
+- מחפשי מתנות
+
+## Industry
+תכשיטים ואקססוריז
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://h-b-jewelry-368f6354.zappy5.app/sitemap.xml
+- Robots: https://h-b-jewelry-368f6354.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://h-b-jewelry-368f6354.zappy5.app/llms-full.txt
+- Products (JSON): https://h-b-jewelry-368f6354.zappy5.app/products.json
+- Products (Google Merchant RSS): https://h-b-jewelry-368f6354.zappy5.app/product-feed.xml
