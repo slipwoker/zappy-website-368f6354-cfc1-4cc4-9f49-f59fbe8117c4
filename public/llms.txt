@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://h-b-jewelry-368f6354.zappy5.app
+https://example.com
 תכשיטים בעבודת יד מכסף 925, זהב וזהב ורד לנשים וגברים. עגילים ושרשראות בעיצוב ייחודי שיגרמו לך לבלוט. קני תכשיט לאישה וקבלי תכשיט לגבר במתנה!
 
 ### אודות
-https://h-b-jewelry-368f6354.zappy5.app/about
+https://example.com/about
 H.B JEWELRY נולדה מתשוקה לעיצוב תכשיטים ייחודיים לגברים ונשים. גלי את הפילוסופיה שלנו, את החומרים המובחרים ואת האומנות שמאחורי כל יצירה בעבודת יד.
 
 ### מדריך מתנות וסטייל
-https://h-b-jewelry-368f6354.zappy5.app/gifting-style-guide
+https://example.com/gifting-style-guide
 מחפשת עגילים ושרשראות לנשים אונליין או תכשיט מושלם לגבר? המדריך שלנו יעזור לך לבחור מתנה שתרגש לכל אירוע. סטייל, טרנד ורגש במקום אחד.
 
 ### צור קשר
-https://h-b-jewelry-368f6354.zappy5.app/contact
+https://example.com/contact
 יש שאלה על תכשיטים לגברים ונשים במבצע או רוצה הזמנה אישית? צוות H.B JEWELRY כאן בשבילך. צרי קשר עכשיו ונעזור לך למצוא את העגילים או השרשרת שחלמת עליהם.
 
 ### Products
-https://h-b-jewelry-368f6354.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - H.B JEWELRY
 
 ### Cart
-https://h-b-jewelry-368f6354.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://h-b-jewelry-368f6354.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://h-b-jewelry-368f6354.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://h-b-jewelry-368f6354.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://h-b-jewelry-368f6354.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://h-b-jewelry-368f6354.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - H.B JEWELRY
 
 ### Category
-https://h-b-jewelry-368f6354.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - H.B JEWELRY
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://h-b-jewelry-368f6354.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://h-b-jewelry-368f6354.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://h-b-jewelry-368f6354.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ H.B JEWELRY is a luxury jewelry brand offering handcrafted and specially designe
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://h-b-jewelry-368f6354.zappy5.app/sitemap.xml
-- Robots: https://h-b-jewelry-368f6354.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://h-b-jewelry-368f6354.zappy5.app/llms-full.txt
-- Products (JSON): https://h-b-jewelry-368f6354.zappy5.app/products.json
-- Products (Google Merchant RSS): https://h-b-jewelry-368f6354.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
