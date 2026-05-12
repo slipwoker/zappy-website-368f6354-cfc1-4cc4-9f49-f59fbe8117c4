@@ -1,8 +1,29 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-12T04:49:28.244Z",
+  "generated_at": "2026-05-12T04:56:57.474Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "e4eba21e-14cd-4778-9e81-30d36092c6c4",
+      "slug": "shrshrt-svlytr-yhlvm-e167jq",
+      "name": "שרשרת סוליטר יהלום",
+      "name_translations": {},
+      "description": "שרשרת עדינה ומרשימה עם תליון אבן סוליטר עגולה בהגדרת 4 שיניים קלאסית. עיצוב נקי ומינימליסטי שמתאים לכל לוק — יומיומי או אירועי. מושלמת כמתנה לאהובים או פינוק לעצמך.",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 180,
+      "base_price": 180,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shrshrt-svlytr-yhlvm-e167jq",
+      "categories": [],
+      "updated_at": "2026-05-12T04:53:28.863Z"
+    }
+  ]
 }

@@ -72,7 +72,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### שרשרת סוליטר יהלום
+https://example.com/product/shrshrt-svlytr-yhlvm-e167jq
+- Price: 180.00 ILS
+- Availability: In stock
+- Description: שרשרת עדינה ומרשימה עם תליון אבן סוליטר עגולה בהגדרת 4 שיניים קלאסית. עיצוב נקי ומינימליסטי שמתאים לכל לוק — יומיומי או אירועי. מושלמת כמתנה לאהובים או פינוק לעצמך.
 
 ---
 
